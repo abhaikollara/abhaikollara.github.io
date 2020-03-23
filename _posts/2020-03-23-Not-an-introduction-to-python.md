@@ -1,3 +1,9 @@
+---
+title:  "Not an Introduction to Python"
+layout: post
+date:   2020-03-23
+---
+
 
 _I’ve been meaning to write this for a while now. Last November I gave a talk at GDG DevFest Kozhikode. This is an written version of the talk._
 
