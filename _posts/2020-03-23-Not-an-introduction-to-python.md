@@ -183,7 +183,7 @@ The result is
 
 ```
 Calling boo
-3
+Hellow
 ```
 
 Let’s see what’s going on here. `log` here is a function that accepts a function `func` as an argument and also returns a function `logged_func`.  Let’s closely examine what `logged_func` itself is doing. If you haven’t seen `*args` and `**kwargs` before, just keep in mind that they capture any positional and keyword arguments respectively. `logged_func` captures these arguments, calls the `func` that was passed to `log` using the arguments and returns the result of calling `func`. The only difference between `func`  and `logged_func` here is that the function prints the name (`__qualname__`) of the function that is called just before calling it. In essence, `logged_func` is the same function as `func`, but with the print statement.
