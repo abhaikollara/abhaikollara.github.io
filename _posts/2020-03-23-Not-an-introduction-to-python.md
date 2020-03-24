@@ -42,7 +42,7 @@ foo = Foo()
 Attempting to print `foo.__dict__` will throw an error, since it has not been created. Similarly, if you try to assign a new attribute during runtime, you will run into an `AttributeError`.
 
 
-- Python docs on `__slots__` 
+- [Python docs on `__slots__`](https://docs.python.org/3/reference/datamodel.html#slots) 
 
 
 ## namedtuples
@@ -82,7 +82,7 @@ print(f"Chars: {count.chars}, Words: {count.words}, Lines: {count.sentences}")
 Both code snippets will produce equivalent behaviour. But for the callee of `count()` the returned value is more informative. Remember that namedtuples are still tuples and you can use `[]` to index them.
 
 
-- Docs for `namedtuples`
+- [Docs for `namedtuples`](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 
 
 ## enums
@@ -109,7 +109,7 @@ day = Weekday.MON
 You can also use `.value` to access the value assigned to each item.
 
 
-- Docs for `enum`
+- [Docs for `enum`](https://docs.python.org/3/library/enum.html)
 
 ## itertools module
 
@@ -159,6 +159,8 @@ optimizers = ['adam', 'sgd', 'rmsprop']
 for lr, optim in product(learning_rates, optimizers):
     your_model.train(lr, optim)
 ```
+
+- [`itertools` docs](https://docs.python.org/3/library/itertools.html)
 
 ## Decorators
 
