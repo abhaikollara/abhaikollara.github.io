@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-My name is Abhai.
+My name is Abhai Kollara.
 
-I code.
+Python programmer \| ML engineer
+
+Very interested in programming languages and compilers.
