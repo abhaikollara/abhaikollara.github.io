@@ -6,6 +6,4 @@ permalink: /about/
 
 My name is Abhai Kollara.
 
-Python programmer \| ML engineer
-
-Very interested in programming languages and compilers.
+Python \| Go \| Machine Learning \| Programming languages
