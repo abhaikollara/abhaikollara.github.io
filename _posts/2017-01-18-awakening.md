@@ -3,6 +3,7 @@ layout: post
 title: "The Awakening"
 date: 2017-01-18
 categories: blog
+published: false
 ---
 
 The little girl was barely awake. The place was barely enough for her to curl up. The darkness inside was perfect. The silence, deadly; only to be broken by a faint rhythm somewhere in the distance.

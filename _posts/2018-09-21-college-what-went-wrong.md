@@ -2,6 +2,7 @@
 title:  "College: What went wrong, what went right"
 layout: post
 date:   2018-09-21
+published: false
 ---
 
 In 2014 when I started college I dreamt of being a great student. I picked computer science as my major because I loved the field. I was happy, confident and excited. After all, I had straight A+s in class Xth and 90% in class 12, what could go wrong ? After 4 years of college, I have 7  backpapers with a history of at least 15 failed papers (along with a couple of research papers though) to my name. My name is Abhai Kollara and I’m an [SOE]("https://en.wikipedia.org/wiki/School_of_Engineering,_CUSAT")ian.
